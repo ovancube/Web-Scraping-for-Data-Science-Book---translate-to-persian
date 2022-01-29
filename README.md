@@ -1,0 +1,1 @@
+# Web-Scraping-for-Data-Science-Book---translate-to-persian
